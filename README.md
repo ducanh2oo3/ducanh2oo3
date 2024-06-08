@@ -1,21 +1,20 @@
-<!-- Header Image -->
+<!-- Full-width Header Image to Simulate Background -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/2864507.png" alt="Header" style="width:100%; height: auto;">
+  <img src="https://wallpaperaccess.com/full/2864507.png" alt="Header" style="width:100%; height:auto; position:relative;">
 </p>
 
+<!-- Transparent Overlay for Text -->
+<div style="position:relative; top:-100px; background:rgba(0,0,0,0.5); color:white; padding:20px; border-radius:10px; text-align:center;">
+  <h1>Hi 👋, I'm Duc Anh</h1>
+  <h3>A passionate frontend developer from India</h3>
+</div>
+
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Duc Anh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<!-- Animated Hacking Image -->
 <img align="right" alt="Hacking" width="400" src="https://giffiles.alphacoders.com/174/1744.gif">
-
-<!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ducanh2oo3&label=Profile%20views&color=0e75b6&style=flat" alt="ducanh2oo3">
 </p>
 
-<!-- About Me -->
 - 🔭 I’m currently working on **n00b_hacker**<br>
 - 🌱 I’m currently learning **Burp suite**<br>
 - 💬 Ask me about **security**<br>
@@ -23,8 +22,8 @@
 - ⚡ Fun fact **Real-Time attack show around 10 million attacks**
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
