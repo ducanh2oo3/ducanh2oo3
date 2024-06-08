@@ -51,16 +51,20 @@
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/> 
   </a> 
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo_and_wordmark.svg" alt="metasploit" width="40" height="40"/> 
-  </a> 
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burp_suite_logo.png/600px-Burp_suite_logo.png" alt="burp suite" width="40" height="40"/> 
-  </a> 
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> 
   </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_Logo.svg" alt="wireshark" width="40" height="40"/> 
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/John_the_Ripper_Logo.png" alt="john the ripper" width="40" height="40"/> 
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Aircrack-ng.png" alt="aircrack-ng" width="40" height="40"/> 
+  </a>
 </p>
+
 
 
 
